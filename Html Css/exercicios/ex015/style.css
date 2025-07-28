@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background-color: whitesmoke);
+}
+
+h1 {
+    color: rgb(139, 0, 90);
+}
+
+h2 {
+    color: orchid;
+}
+
+p {
+    text-align: justify;
+}
